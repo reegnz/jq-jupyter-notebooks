@@ -1,0 +1,16 @@
+[
+  {
+    "account": "111111111111",
+    "regions": [
+      "us-east-1",
+      "eu-central-1"
+    ]
+  },
+  {
+    "account": "222222222222",
+    "regions": [
+      "us-west-2",
+      "us-east-1"
+    ]
+  }
+]

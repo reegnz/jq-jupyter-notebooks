@@ -1,0 +1,27 @@
+{
+  "authorizationData": [
+    {
+      "authorizationToken": "QVdTOmV5SndZWGxzYjJGa0lqb2lXRmhZV0ZoWVdGZ2lMQ0prWVhSaGEyVjVJam9pV1ZsWldWbFpXVmtpTENKMlpYSnphVzl1SWpvaU1pSXNJblI1Y0dVaU9pSkVRVlJCWDB0RldTSXNJbVY0Y0dseVlYUnBiMjRpT2pFMU9EQXlOek13TkRaOQ==",
+      "expiresAt": 158164069.791,
+      "proxyEndpoint": "https://111111111111.dkr.ecr.us-east-1.amazonaws.com"
+    }
+  ]
+}
+{
+  "authorizationData": [
+    {
+      "authorizationToken": "QVdTOmV5SndZWGxzYjJGa0lqb2lXRmhZV0ZoWVdGZ2lMQ0prWVhSaGEyVjVJam9pV1ZsWldWbFpXVmtpTENKMlpYSnphVzl1SWpvaU1pSXNJblI1Y0dVaU9pSkVRVlJCWDB0RldTSXNJbVY0Y0dseVlYUnBiMjRpT2pFMU9EQXlOek13TkRaOQ==",
+      "expiresAt": 158164069.791,
+      "proxyEndpoint": "https://222222222222.dkr.ecr.us-east-1.amazonaws.com"
+    }
+  ]
+}
+{
+  "authorizationData": [
+    {
+      "authorizationToken": "QVdTOmV5SndZWGxzYjJGa0lqb2lXRmhZV0ZoWVdGZ2lMQ0prWVhSaGEyVjVJam9pV1ZsWldWbFpXVmtpTENKMlpYSnphVzl1SWpvaU1pSXNJblI1Y0dVaU9pSkVRVlJCWDB0RldTSXNJbVY0Y0dseVlYUnBiMjRpT2pFMU9EQXlOek13TkRkOQ==",
+      "expiresAt": 158164069.791,
+      "proxyEndpoint": "https://222222222222.dkr.ecr.us-west-2.amazonaws.com"
+    }
+  ]
+}
